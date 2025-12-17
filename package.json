@@ -27,8 +27,6 @@
   "bugs": {
     "url": "https://github.com/daemanas/cosmeon-fs-lite1/issues"
   },
-  "homepage": "https://github.com/daemanas/cosmeon-fs-lite1#readme",
-  "keywords": ["distributed", "file-system", "simulation", "satellite", "storage"],
-  "author": "COSMEON Engineering",
-  "license": "MIT"
+  "homepage": "https://github.com/daemanas/cosmeon-fs-lite1#readme"
+  
 }
