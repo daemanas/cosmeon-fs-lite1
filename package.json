@@ -1,0 +1,7 @@
+{
+  "name": "cosmeon-fs-lite",
+  "version": "0.1.0",
+  "main": "server.js",
+  "license": "MIT"
+}
+
