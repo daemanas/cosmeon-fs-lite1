@@ -1,2 +1,49 @@
-{}
-
+{
+  "files": {
+    "1698751234567-abc123": {
+      "fileId": "1698751234567-abc123",
+      "originalName": "sample_document.pdf",
+      "size": 5242880,
+      "totalChunks": 5,
+      "uploadedAt": "2024-10-30T14:30:45.123Z",
+      "fileHash": "a1b2c3d4e5f6...",
+      "chunks": {
+        "0": {
+          "chunkId": 0,
+          "node": "node1",
+          "hash": "hash_for_chunk_0",
+          "size": 1048576,
+          "path": "/nodes/node1/1698751234567-abc123_chunk0"
+        },
+        "1": {
+          "chunkId": 1,
+          "node": "node2",
+          "hash": "hash_for_chunk_1",
+          "size": 1048576,
+          "path": "/nodes/node2/1698751234567-abc123_chunk1"
+        },
+        "2": {
+          "chunkId": 2,
+          "node": "node3",
+          "hash": "hash_for_chunk_2",
+          "size": 1048576,
+          "path": "/nodes/node3/1698751234567-abc123_chunk2"
+        },
+        "3": {
+          "chunkId": 3,
+          "node": "node4",
+          "hash": "hash_for_chunk_3",
+          "size": 1048576,
+          "path": "/nodes/node4/1698751234567-abc123_chunk3"
+        },
+        "4": {
+          "chunkId": 4,
+          "node": "node1",
+          "hash": "hash_for_chunk_4",
+          "size": 1048576,
+          "path": "/nodes/node1/1698751234567-abc123_chunk4"
+        }
+      }
+    }
+  }
+}

@@ -1,17 +1,72 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>cosmeon-fs-lite</title>
+    <title>COSMEON FS-Lite - Orbital File System</title>
     <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <main>
-      <h1>cosmeon-fs-lite</h1>
-      <p>Static placeholder page. Replace with your UI.</p>
-    </main>
-    <script src="script.js"></script>
-  </body>
-</html>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <i class="fas fa-satellite"></i>
+                <h1>COSMEON FS-Lite</h1>
+            </div>
+            <p class="subtitle">Orbital File System Simulation</p>
+            <div class="header-controls">
+                <a href="dashboard.html" class="btn btn-secondary">
+                    <i class="fas fa-tachometer-alt"></i> Dashboard
+                </a>
+                <button id="refreshLogs" class="btn btn-secondary">
+                    <i class="fas fa-sync"></i> Refresh Logs
+                </button>
+            </div>
+        </header>
 
+        <main>
+            <div class="dashboard-grid">
+                <div class="card">
+                    <h2><i class="fas fa-upload"></i> Upload File</h2>
+                    <div class="upload-area" id="dropArea">
+                        <i class="fas fa-cloud-upload-alt upload-icon"></i>
+                        <p>Drag & drop files here or click to browse</p>
+                        <input type="file" id="fileInput" style="display: none;">
+                        <button id="browseBtn" class="btn btn-primary">Browse Files</button>
+                    </div>
+                    <div class="upload-progress" id="uploadProgress" style="display: none;">
+                        <div class="progress-bar">
+                            <div class="progress-fill" id="progressFill"></div>
+                        </div>
+                        <p id="progressText">Uploading...</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2><i class="fas fa-satellite-dish"></i> Satellite Nodes</h2>
+                    <div class="nodes-grid" id="nodesContainer">
+                        <!-- Nodes will be populated by JavaScript -->
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2><i class="fas fa-file-archive"></i> Stored Files</h2>
+                    <div class="files-list" id="filesList">
+                        <!-- Files will be populated by JavaScript -->
+                    </div>
+                </div>
+
+                <div class="card full-width">
+                    <h2><i class="fas fa-clipboard-list"></i> System Logs</h2>
+                    <div class="logs-container" id="logsContainer">
+                        <!-- Logs will be populated by JavaScript -->
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
