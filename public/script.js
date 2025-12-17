@@ -92,6 +92,13 @@ class CosmeonFS {
         }
     }
 
+
+    // catch (error) {
+        //     progressText.textContent = `Upload failed: ${error.message}`;
+        //     progressBar.style.background = 'linear-gradient(90deg, #ff416c, #ff4b2b)';
+        //     this.showNotification(`Upload failed: ${error.message}`, 'error');
+        // }
+
     async loadNodes() {
         try {
             const response = await fetch(`${this.baseUrl}/nodes`);
@@ -468,3 +475,12 @@ style.textContent = `
 }
 `;
 document.head.appendChild(style);
+
+
+
+
+
+
+
+
+

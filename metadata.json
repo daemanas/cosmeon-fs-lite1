@@ -44,6 +44,140 @@
           "path": "/nodes/node1/1698751234567-abc123_chunk4"
         }
       }
+    },
+    "1765999991149-fk4x41u6r": {
+      "fileId": "1765999991149-fk4x41u6r",
+      "originalName": "Sayabdip_HM-HU101.pptx",
+      "size": 629528,
+      "totalChunks": 1,
+      "uploadedAt": "2025-12-17T19:33:11.300Z",
+      "fileHash": "34a0ab8b542a42bb1069d17d464ed096618eeeb00910296bf9eff4f07d1b7e5b",
+      "chunks": {
+        "0": {
+          "chunkId": 0,
+          "node": "node1",
+          "hash": "34a0ab8b542a42bb1069d17d464ed096618eeeb00910296bf9eff4f07d1b7e5b",
+          "size": 629528,
+          "path": "C:\\Users\\daema\\Desktop\\Cosmos\\cosmeon-fs-lite\\nodes\\node1\\1765999991149-fk4x41u6r_chunk0"
+        }
+      }
+    },
+    "1766000069803-pwscjufor": {
+      "fileId": "1766000069803-pwscjufor",
+      "originalName": "10-12-2025_BDO_Income_verified.pdf",
+      "size": 304587,
+      "totalChunks": 1,
+      "uploadedAt": "2025-12-17T19:34:29.850Z",
+      "fileHash": "f8890575189ff230869e2a5d407b768761777ae96e09c03b4b71b6c1c43d74b9",
+      "chunks": {
+        "0": {
+          "chunkId": 0,
+          "node": "node1",
+          "hash": "f8890575189ff230869e2a5d407b768761777ae96e09c03b4b71b6c1c43d74b9",
+          "size": 304587,
+          "path": "C:\\Users\\daema\\Desktop\\Cosmos\\cosmeon-fs-lite\\nodes\\node1\\1766000069803-pwscjufor_chunk0"
+        }
+      }
+    },
+    "1766000126643-swlbtk0ul": {
+      "fileId": "1766000126643-swlbtk0ul",
+      "originalName": "8.png",
+      "size": 727029,
+      "totalChunks": 1,
+      "uploadedAt": "2025-12-17T19:35:26.690Z",
+      "fileHash": "ec809cc8f0b07ca9fe8afae4159cdea857d7a61e95b56a4793c01b97055ac108",
+      "chunks": {
+        "0": {
+          "chunkId": 0,
+          "node": "node1",
+          "hash": "ec809cc8f0b07ca9fe8afae4159cdea857d7a61e95b56a4793c01b97055ac108",
+          "size": 727029,
+          "path": "C:\\Users\\daema\\Desktop\\Cosmos\\cosmeon-fs-lite\\nodes\\node1\\1766000126643-swlbtk0ul_chunk0"
+        }
+      }
+    },
+    "1766000178855-m3uo1d9mx": {
+      "fileId": "1766000178855-m3uo1d9mx",
+      "originalName": "Screenshot 2025-08-13 161440.png",
+      "size": 468497,
+      "totalChunks": 1,
+      "uploadedAt": "2025-12-17T19:36:18.904Z",
+      "fileHash": "8b3f5c866c312bc9b83d298fc503063a813eb479966810d73531c4510c65a2c9",
+      "chunks": {
+        "0": {
+          "chunkId": 0,
+          "node": "node2",
+          "hash": "8b3f5c866c312bc9b83d298fc503063a813eb479966810d73531c4510c65a2c9",
+          "size": 468497,
+          "path": "C:\\Users\\daema\\Desktop\\Cosmos\\cosmeon-fs-lite\\nodes\\node2\\1766000178855-m3uo1d9mx_chunk0"
+        }
+      }
+    },
+    "1766000282875-uvg66vsvc": {
+      "fileId": "1766000282875-uvg66vsvc",
+      "originalName": "8.png",
+      "size": 727029,
+      "totalChunks": 1,
+      "uploadedAt": "2025-12-17T19:38:02.991Z",
+      "fileHash": "ec809cc8f0b07ca9fe8afae4159cdea857d7a61e95b56a4793c01b97055ac108",
+      "chunks": {
+        "0": {
+          "chunkId": 0,
+          "node": "node1",
+          "hash": "ec809cc8f0b07ca9fe8afae4159cdea857d7a61e95b56a4793c01b97055ac108",
+          "size": 727029,
+          "path": "C:\\Users\\daema\\Desktop\\Cosmos\\cosmeon-fs-lite\\nodes\\node1\\1766000282875-uvg66vsvc_chunk0"
+        }
+      }
+    },
+    "1766000314291-hx435epfa": {
+      "fileId": "1766000314291-hx435epfa",
+      "originalName": "Screenshot 2025-08-14 182649.png",
+      "size": 721198,
+      "totalChunks": 1,
+      "uploadedAt": "2025-12-17T19:38:34.489Z",
+      "fileHash": "e0912bab6470c7a36275a508add4d533d983bed9ebefb686706e95aaaa377eda",
+      "chunks": {
+        "0": {
+          "chunkId": 0,
+          "node": "node1",
+          "hash": "e0912bab6470c7a36275a508add4d533d983bed9ebefb686706e95aaaa377eda",
+          "size": 721198,
+          "path": "C:\\Users\\daema\\Desktop\\Cosmos\\cosmeon-fs-lite\\nodes\\node1\\1766000314291-hx435epfa_chunk0"
+        }
+      }
+    },
+    "1766000551353-8alt8z2uh": {
+      "fileId": "1766000551353-8alt8z2uh",
+      "originalName": "8.png",
+      "size": 727029,
+      "totalChunks": 1,
+      "uploadedAt": "2025-12-17T19:42:31.506Z",
+      "fileHash": "ec809cc8f0b07ca9fe8afae4159cdea857d7a61e95b56a4793c01b97055ac108",
+      "chunks": {
+        "0": {
+          "chunkId": 0,
+          "node": "node1",
+          "hash": "ec809cc8f0b07ca9fe8afae4159cdea857d7a61e95b56a4793c01b97055ac108",
+          "size": 727029
+        }
+      }
+    },
+    "1766000590725-cmnh9275e": {
+      "fileId": "1766000590725-cmnh9275e",
+      "originalName": "Screenshot 2025-08-29 014835.png",
+      "size": 133,
+      "totalChunks": 1,
+      "uploadedAt": "2025-12-17T19:43:10.793Z",
+      "fileHash": "c059b1326206c5a7d14d59de4f10bac1874e68489b3a9ec5a11f951e1b01ab90",
+      "chunks": {
+        "0": {
+          "chunkId": 0,
+          "node": "node1",
+          "hash": "c059b1326206c5a7d14d59de4f10bac1874e68489b3a9ec5a11f951e1b01ab90",
+          "size": 133
+        }
+      }
     }
   }
 }

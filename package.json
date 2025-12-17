@@ -13,11 +13,9 @@
     "express": "^4.18.2",
     "multer": "^1.4.5-lts.1"
   },
-   "devDependencies": {
+  "devDependencies": {
     "nodemon": "^3.0.1"
   },
-  
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/daemanas/cosmeon-fs-lite1.git"
@@ -28,5 +26,4 @@
     "url": "https://github.com/daemanas/cosmeon-fs-lite1/issues"
   },
   "homepage": "https://github.com/daemanas/cosmeon-fs-lite1#readme"
-  
 }
