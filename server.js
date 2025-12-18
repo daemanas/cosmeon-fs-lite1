@@ -303,7 +303,7 @@ app.post('/api/reconstruct/:fileId', async (req, res) => {
             }
         }
         
-        // Check if we can reconstruct
+        // Check if we can reconstruct 
         const availableChunks = chunks.filter(chunk => chunk !== undefined).length;
         const reconstructionStatus = availableChunks === totalChunks ? 'success' :
                                    availableChunks > 0 ? 'partial' : 'failed';
